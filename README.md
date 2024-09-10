@@ -1,5 +1,4 @@
-#Hello I'm Afzal
-([@Afzal-04](https://github.com/SkAfzal-04))
+#Hello I'm Afzal([@Afzal-04](https://github.com/SkAfzal-04))
 <div align="center">
     <img src="https://github.com/SkAfzal-04/SkAfzal-04/blob/main/Afzal_animation.gif" alt="logo">
 </div>
