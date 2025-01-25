@@ -3,6 +3,9 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=435&lines=Welcome+to+my+github+profile!)](https://git.io/typing-svg)
 
 ---
+<div align="center">
+    <img src="https://github.com/SkAfzal-04/SkAfzal-04/blob/main/Afzal_animation.gif" alt="logo">
+</div>
 
 <h1 align="center">Hi 👋, I'm Sk Mahammd Afzal</h1>
 <h3 align="center">A passionate Software Engineer from India</h3>
