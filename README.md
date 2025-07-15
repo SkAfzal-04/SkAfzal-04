@@ -18,7 +18,7 @@
 
 - ⚡ Fun fact: **I am Funny**
 
-- 🌐 Check out my portfolio: [My Portfolio](https://portfolio-sk-afzals-projects.vercel.app/)
+- 🌐 Check out my portfolio: [My Portfolio](https://sk-mahammad-afzal-04.vercel.app/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
