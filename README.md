@@ -4,7 +4,7 @@
 
 ---
 <div align="center">
-    <img src="https://github.com/SkAfzal-04/SkAfzal-04/blob/main/Afzal_animation.gif" alt="logo">
+    <img src="https://github.com/SkAfzal-04/SkAfzal-04/blob/main/Afzal.gif" alt="logo">
 </div>
 
 <h1 align="center">Hi 👋, I'm Sk Mahammd Afzal</h1>
